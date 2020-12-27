@@ -1,0 +1,112 @@
+\begin{thebibliography}{17}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Dogar and Srinivasa(2010)]{dogar2010push}
+Mehmet Dogar and Siddhartha Srinivasa.
+\newblock Push-grasping with dexterous hands: Mechanics and a method.
+\newblock In \emph{2010 IEEE/RSJ International Conference on Intelligent Robots
+  and Systems}, pages 2123--2130. IEEE, 2010.
+
+\bibitem[Dogar and Srinivasa(2011)]{dogar2011framework}
+Mehmet Dogar and Siddhartha Srinivasa.
+\newblock A framework for push-grasping in clutter.
+\newblock \emph{Robotics: Science and systems VII}, 1, 2011.
+
+\bibitem[Eppner and Brock(2015)]{eppner2015planning}
+Clemens Eppner and Oliver Brock.
+\newblock Planning grasp strategies that exploit environmental constraints.
+\newblock In \emph{2015 IEEE International Conference on Robotics and
+  Automation (ICRA)}, pages 4947--4952. IEEE, 2015.
+
+\bibitem[Kao and Cutkosky(1992)]{kao1992quasistatic}
+Imin Kao and Mark~R Cutkosky.
+\newblock Quasistatic manipulation with compliance and sliding.
+\newblock \emph{The International journal of robotics research}, 11\penalty0
+  (1):\penalty0 20--40, 1992.
+
+\bibitem[King et~al.(2013)King, Klingensmith, Dellin, Dogar, Velagapudi,
+  Pollard, and Srinivasa]{king2013pregrasp}
+Jennifer~E King, Matthew Klingensmith, Christopher~M Dellin, Mehmet~Remzi
+  Dogar, Prasanna Velagapudi, Nancy~S Pollard, and Siddhartha~S Srinivasa.
+\newblock Pregrasp manipulation as trajectory optimization.
+\newblock In \emph{Robotics: Science and Systems}, 2013.
+
+\bibitem[Krivic and Piater(2018)]{krivic2018online}
+Senka Krivic and Justus Piater.
+\newblock Online adaptation of robot pushing control to object properties.
+\newblock In \emph{2018 IEEE/RSJ International Conference on Intelligent Robots
+  and Systems (IROS)}, pages 4614--4621. IEEE, 2018.
+
+\bibitem[Krivic et~al.(2016)Krivic, Ugur, and Piater]{krivic2016robust}
+Senka Krivic, Emre Ugur, and Justus Piater.
+\newblock A robust pushing skill for object delivery between obstacles.
+\newblock In \emph{2016 IEEE International Conference on Automation Science and
+  Engineering (CASE)}, pages 1184--1189. IEEE, 2016.
+
+\bibitem[Leidner et~al.(2016)Leidner, Dietrich, Beetz, and
+  Albu-Sch{\"a}ffer]{leidner2016knowledge}
+Daniel Leidner, Alexander Dietrich, Michael Beetz, and Alin Albu-Sch{\"a}ffer.
+\newblock Knowledge-enabled parameterization of whole-body control strategies
+  for compliant service robots.
+\newblock \emph{Autonomous Robots}, 40\penalty0 (3):\penalty0 519--536, 2016.
+
+\bibitem[Leidner(2019)]{leidner2019cognitive}
+Daniel~Sebastian Leidner.
+\newblock \emph{Cognitive reasoning for compliant robot manipulation}.
+\newblock Springer, 2019.
+
+\bibitem[Lynch(1996)]{lynch1996nonprehensile}
+Kevin~M Lynch.
+\newblock \emph{Nonprehensile robotic manipulation: Controllability and
+  planning}.
+\newblock Citeseer, 1996.
+
+\bibitem[Lynch and Murphey(2003)]{lynch2003control}
+Kevin~M Lynch and Todd~D Murphey.
+\newblock Control of nonprehensile manipulation.
+\newblock In \emph{Control Problems in Robotics}, pages 39--57. Springer, 2003.
+
+\bibitem[Nieuwenhuisen et~al.(2005)Nieuwenhuisen, van~der Stappen, and
+  Overmars]{nieuwenhuisen2005path}
+Dennis Nieuwenhuisen, A~Frank van~der Stappen, and Mark~H Overmars.
+\newblock Path planning for pushing a disk using compliance.
+\newblock In \emph{2005 IEEE/RSJ International Conference on Intelligent Robots
+  and Systems}, pages 714--720. IEEE, 2005.
+
+\bibitem[Ruggiero et~al.(2018)Ruggiero, Lippiello, and
+  Siciliano]{ruggiero2018nonprehensile}
+Fabio Ruggiero, Vincenzo Lippiello, and Bruno Siciliano.
+\newblock Nonprehensile dynamic manipulation: A survey.
+\newblock \emph{IEEE Robotics and Automation Letters}, 3\penalty0 (3):\penalty0
+  1711--1718, 2018.
+
+\bibitem[Sarantopoulos and Doulgeri(2018)]{sarantopoulos2018human}
+Iason Sarantopoulos and Zoe Doulgeri.
+\newblock Human-inspired robotic grasping of flat objects.
+\newblock \emph{Robotics and autonomous systems}, 108:\penalty0 179--191, 2018.
+
+\bibitem[Serra(2016)]{serra2016robot}
+Diana Serra.
+\newblock Robot control for nonprehensile dynamic manipulation tasks.
+\newblock In \emph{International Conference on Informatics in Control,
+  Automation and Robotics, Doctoral Consortium}, pages 3--12, 2016.
+
+\bibitem[St{\"u}ber et~al.(2019)St{\"u}ber, Zito, and Stolkin]{stuber2019let}
+Jochen St{\"u}ber, Claudio Zito, and Rustam Stolkin.
+\newblock Let's push things forward: A survey on robot pushing.
+\newblock \emph{arXiv preprint arXiv:1905.05138}, 2019.
+
+\bibitem[Zeng et~al.(2018)Zeng, Song, Welker, Lee, Rodriguez, and
+  Funkhouser]{zeng2018learning}
+Andy Zeng, Shuran Song, Stefan Welker, Johnny Lee, Alberto Rodriguez, and
+  Thomas Funkhouser.
+\newblock Learning synergies between pushing and grasping with self-supervised
+  deep reinforcement learning.
+\newblock In \emph{2018 IEEE/RSJ International Conference on Intelligent Robots
+  and Systems (IROS)}, pages 4238--4245. IEEE, 2018.
+
+\end{thebibliography}
